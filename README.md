@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Nallavalli Dharma</h1>
+<h3 align="center"> Web Developer | Cloud Enthusiast</h3>
 
-<!--
-**NallavalliDharma/NallavalliDharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 I’m a Electrical student passionate about **Web Development & Cloud**
+- 💻 I build responsive web apps using **MERN & HTML CSS JS**
+- 🚀 Currently working on: **Job Portals Project**
+- 🌱 Learning **DevOps and Deployment (Vercel + Render)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript, HTML5, CSS3, Python
+
+**Frontend:**
+- React.js 
+
+**Backend:**
+- Node.js, Express.js, MongoDB
+
+**Tools:**
+- Git, GitHub, VS Code
+
+---
+
+### 📫 Connect with me
+- ✉️ Email: nallavallidharma@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nallavallidharma/
+
+---
+
