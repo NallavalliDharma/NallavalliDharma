@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m a Electrical student passionate about **Web Development & Cloud**
+- 🎓 I’m currently pursuing a Bachelor of Technology in NIT PUDUCHERRY and passionate about **Web Development & Cloud**
 - 💻 I build responsive web apps using **MERN & HTML CSS JS**
 - 🚀 Currently working on: **Job Portals Project**
 - 🌱 Learning **DevOps and Deployment (Vercel + Render)**
