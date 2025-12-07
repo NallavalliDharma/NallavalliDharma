@@ -20,7 +20,7 @@
 - React.js 
 
 **Backend:**
-- Node.js, Express.js, MongoDB
+- Node.js, Python, MongoDB
 
 **Tools:**
 - Git, GitHub, VS Code
