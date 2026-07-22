@@ -4,10 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m currently pursuing a Bachelor of Technology in NIT PUDUCHERRY and passionate about **Web Development & Cloud**
-- 💻 I build responsive web apps using **MERN & HTML CSS JS**
-- 🚀 Currently working on: **Job Portals Project**
-- 🌱 Learning **DevOps and Deployment (Vercel + Render)**
+Electronics and Electrical Engineering graduate from **NIT Puducherry**. Currently learning **Generative AI, AI Fundamentals, and Cloud Computing (AWS)**, with a strong interest in building AI-powered and cloud-based solutions.
+
 
 ---
 
